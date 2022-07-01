@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tunabsdrmz
 - 👀 I’m interested in Web development and blockchain
-- 🌱 I’m currently learning React but in the future i want to learn Solidity
 - 📫 How to reach me =>
   İg: tuna_bsdrmz
   Mail: tunabosdurmaz2002@gmail.com
