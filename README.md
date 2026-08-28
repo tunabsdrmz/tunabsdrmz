@@ -59,3 +59,8 @@ A production-oriented REST API for managing boxing gyms, memberships, attendance
 Let's build something great.
 
 </div>
+
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/dbaa0d59-592d-4fbd-b100-3f98b4213617/thumbnail" >
+</p>
